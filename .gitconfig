@@ -1,3 +1,12 @@
 [user]
 	name = dzxxhwjl
 	email = dzx2552@163.com
+
+[alias]
+  graph = log --all --graph --decorate --oneline
+  r = remote
+  c = commit 
+  a = add
+  ps = push
+  pl = pull
+  logl = log --all --oneline
