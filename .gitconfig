@@ -10,3 +10,8 @@
   ps = push
   pl = pull
   logl = log --all --oneline
+  cae = commit --allow-empty
+  ck = checkout
+  b = branch
+  s = status
+
